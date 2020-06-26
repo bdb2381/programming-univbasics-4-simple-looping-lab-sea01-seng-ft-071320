@@ -30,5 +30,5 @@ def return_string_array(array)
       array[n].to_s
       n+=1
     end
-  return new_array
+  return array
 end
