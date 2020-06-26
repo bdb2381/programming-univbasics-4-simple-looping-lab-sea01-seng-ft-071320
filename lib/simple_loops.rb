@@ -1,5 +1,5 @@
 def loop_message_five_times(string)
   5.times do
-      put string
+      puts string
   end
 end
