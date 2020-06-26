@@ -30,5 +30,7 @@ def return_string_array(array)
       new_array << array[n].to_s
       n+=1
     end
+    puts array
+    puts new_array
   return new_array
 end
