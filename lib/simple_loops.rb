@@ -18,6 +18,6 @@ def output_array(array)
   #counter.times do
   #    puts array[n]
   #    n +=
-  end
+  #end
 
 end
