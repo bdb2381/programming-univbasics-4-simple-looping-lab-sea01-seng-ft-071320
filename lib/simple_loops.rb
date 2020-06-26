@@ -26,8 +26,9 @@ def return_string_array(array)
   new_array = []
   n = 0
    array.size.times do
-      new_array[n] = array[n].to_s
-      n+=1
+      #new_array[n] = array[n].to_s
+      #n+=1
+      array[n].to_s
     end
   return new_array
 end
