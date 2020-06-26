@@ -22,7 +22,6 @@ end
 
 
 def return_string_array(array)
-  #puts array
   new_array = []
   n = 0
    array.size.times do
@@ -30,7 +29,5 @@ def return_string_array(array)
       new_array << array[n].to_s
       n+=1
     end
-    print array
-    print new_array
   return new_array
 end
