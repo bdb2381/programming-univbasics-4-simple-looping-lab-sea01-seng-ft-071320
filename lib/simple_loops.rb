@@ -23,7 +23,7 @@ def output_array(array)
 
 while n < array.size
   puts array[n]
-  n+=
+  n=+
   end
 
 end
