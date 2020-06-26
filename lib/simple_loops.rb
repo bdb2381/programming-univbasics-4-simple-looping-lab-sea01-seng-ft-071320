@@ -29,6 +29,7 @@ def return_string_array(array)
       new_array = array[n]
       puts new_array
       n+=1
+      
     end
     return new_array
 end
