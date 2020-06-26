@@ -22,7 +22,8 @@ end
 
 
 def return_string_array(array)
-  puts array
+  #puts array
+  new_array = []
   n = 0
    array.size.times do
       new_array[] = array[n]
