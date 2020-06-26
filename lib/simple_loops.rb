@@ -28,7 +28,7 @@ def return_string_array(array)
    array.size.times do
       #new_array[n] = array[n].to_s
       #n+=1
-      array.to_s
+      array[n].to_s
     end
   return new_array
 end
