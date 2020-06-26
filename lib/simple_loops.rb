@@ -18,7 +18,7 @@ def output_array(array)
   n = 0
    array.size.times do
       puts array[n]
-      n = n +1
+      n+=1
   end
 
 =begin
