@@ -20,10 +20,10 @@ def output_array(array)
   #    n = n +1
   #end
 
-
+n = 0
 while n < array.size
   puts array[n]
-  n+= 1
+  n += 1
   end
 
 end
