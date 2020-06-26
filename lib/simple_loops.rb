@@ -13,11 +13,11 @@ end
 
 
 def output_array(array)
-  counter = array.size
-  n = 0
-  counter.times do
-      puts array[n]
-      n +=
+  #counter = array.size
+  #n = 0
+  #counter.times do
+  #    puts array[n]
+  #    n +=
   end
 
 end
