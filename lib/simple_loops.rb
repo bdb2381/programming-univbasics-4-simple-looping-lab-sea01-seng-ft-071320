@@ -14,9 +14,10 @@ end
 
 def output_array(array)
   counter = array.size
+  n = 0
   counter.times do
-      puts array[counter]
-      counter +=
+      puts array[n]
+      n +=
   end
 
 end
