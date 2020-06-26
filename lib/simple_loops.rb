@@ -20,6 +20,12 @@ def output_array(array)
     end
 end
 
+
 def return_string_array(array)
   puts array
+  n = 0
+   array.size.times do
+      new_array[] = array[n]
+      n+=1
+    end
 end
